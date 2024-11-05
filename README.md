@@ -4,7 +4,6 @@ Linux-IPC-Pipes
 NAME : VINISH RAJ R
 REG NO : 212223230243
 
-
 # Ex03-Linux IPC - Pipes
 
 # AIM:
